@@ -1,0 +1,12 @@
+# # # Path # # #
+
+# http://www.tech-recipes.com/rx/2621/os_x_change_path_environment_variable/
+
+# Adds ~/.rbenv/bin to the front of the PATH
+# export PATH="$HOME/path/to/add:$PATH"
+
+# Adds /usr/local/mysql/bin to the end of the PATH
+# export PATH=$PATH:/path/to/add
+
+# PATH=$PATH:~/bin
+# export PATH
