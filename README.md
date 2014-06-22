@@ -1,6 +1,7 @@
 ## Source
 
 Adapted from https://github.com/mathiasbynens/dotfiles and https://github.com/paulirish/dotfiles
+And see http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
 
 ## Installation
 
