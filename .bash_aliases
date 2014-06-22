@@ -27,3 +27,6 @@ alias hideFiles='defaults write com.apple.finder AppleShowAllFiles FALSE; killal
 
 # List only directories
 alias lsd='ls -l | grep "^d"'
+
+# Git
+alias g="git"
